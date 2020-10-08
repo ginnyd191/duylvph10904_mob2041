@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Add"
+    android:id="@+id/menuadd"
+    />
+    <item android:title="Change Your Password"
+        android:id="@+id/menuchange"/>
+    <item android:title="Log out"
+        android:id="@+id/menulog"/>
+</menu>
